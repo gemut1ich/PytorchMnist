@@ -9,9 +9,7 @@ pip install -r requirements.txt
 python main.py //This step is optional because there is a trained model in the directory     
 python display.py
 ```
-
-##visuals
-
+## Visuals
 If the program runs correctly, you will get the following results after performing the above operations:
 
 Drawing board:\
