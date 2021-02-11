@@ -13,7 +13,7 @@ python display.py
 If the program runs correctly, you will get the following results after performing the above operations:
 
 Drawing board:\
-![DrawingBoard](drawingBoardExample.jpg)\
+![DrawingBoard](drawingBoardExample.jpg)
 
 result:\
 ![result](result.png)
